@@ -5,7 +5,7 @@ body {
 }
 
 header {
-    background-color: #767afc;
+    background-color: #353bee;
     color: white;
     padding: 20px;
     border-radius: 8px;
@@ -13,4 +13,5 @@ header {
 
 main {
     margin-top: 20px;
+    
 }
